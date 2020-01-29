@@ -1,0 +1,4 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Triangle_Library\bin\Release\Triangle_Library.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Triangle_Library\bin\Release\Triangle_Library.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Triangle_Library\obj\Release\Triangle_Library.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Triangle_Library\obj\Release\Triangle_Library.pdb

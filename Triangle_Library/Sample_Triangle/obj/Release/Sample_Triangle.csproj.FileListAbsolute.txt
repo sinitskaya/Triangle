@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\bin\Release\Sample_Triangle.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\bin\Release\Sample_Triangle.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\bin\Release\Sample_Triangle.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\bin\Release\Triangle_Library.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\bin\Release\Triangle_Library.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\obj\Release\Sample_Triangle.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\obj\Release\Sample_Triangle.pdb

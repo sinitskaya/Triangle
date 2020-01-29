@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Triangle_UnitTests\bin\Release\Triangle_UnitTests.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Triangle_UnitTests\bin\Release\Triangle_UnitTests.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Triangle_UnitTests\bin\Release\Triangle_Library.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Triangle_UnitTests\bin\Release\Triangle_Library.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Triangle_UnitTests\obj\Release\Triangle_UnitTests.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Triangle_UnitTests\obj\Release\Triangle_UnitTests.pdb

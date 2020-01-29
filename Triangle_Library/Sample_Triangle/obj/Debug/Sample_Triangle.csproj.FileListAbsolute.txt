@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\bin\Debug\Sample_Triangle.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\bin\Debug\Sample_Triangle.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\bin\Debug\Sample_Triangle.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\bin\Debug\Triangle_Library.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\bin\Debug\Triangle_Library.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\obj\Debug\Sample_Triangle.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\obj\Debug\Sample_Triangle.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Triangle_Library\Sample_Triangle\obj\Debug\Sample_Triangle.pdb
